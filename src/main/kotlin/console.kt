@@ -17,6 +17,9 @@ fun main(args:Array<String>){
     // result for area
     println(area(5 , 6 ))
 
+    //result 2
+    val areea = area(4, 6)
+    println(areea)
 
 
 }
